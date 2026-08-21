@@ -302,7 +302,7 @@ I'm looking for an environment where I can contribute, learn from experienced de
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:dev.g.leao@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
