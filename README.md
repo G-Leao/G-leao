@@ -49,7 +49,7 @@ Aplicação web desenvolvida com React para gerenciamento e exploração de prod
 
 **Tecnologias:** React, JavaScript, Vite, React Router, Fetch API e LocalStorage.
 
-[Ver projeto](https://watch-hub-nine.vercel.app/) · [Código](https://github.com/G-Leao)
+[Ver projeto](https://watch-hub-nine.vercel.app/) · [Código](https://github.com/G-Leao/watch-hub)
 
 ---
 
@@ -59,7 +59,7 @@ Sistema web desenvolvido para gerenciamento e acompanhamento de vendas, com dash
 
 **Tecnologias:** HTML, CSS, JavaScript, Chart.js e LocalStorage.
 
-[Ver projeto](https://sistema-de-gestao-de-vendas-black.vercel.app/) · [Código](https://G-Leao/Sistema-PRO)
+[Ver projeto](https://sistema-de-gestao-de-vendas-black.vercel.app/) · [Código](https://github.com/G-Leao/Sistema-PRO)
 
 ---
 
@@ -69,7 +69,7 @@ Landing page desenvolvida para uma academia de judô, com foco em apresentação
 
 **Tecnologias:** HTML, CSS e JavaScript.
 
-[Ver projeto](https://ar-esportes.vercel.app/) · [Código](https://G-Leao/AR-esportes-Landing-Page)
+[Ver projeto](https://ar-esportes.vercel.app/) · [Código](https://github.com/G-Leao/AR-esportes-Landing-Page)
 
 ---
 
