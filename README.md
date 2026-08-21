@@ -1,115 +1,325 @@
-# Gustavo Leão
+<div align="center">
 
-### Estudante de Engenharia de Software | Front-end Developer
+# GUSTAVO LEÃO
 
-Estudante de Engenharia de Software com foco em desenvolvimento web e criação de aplicações modernas, responsivas e funcionais.
+### SOFTWARE ENGINEERING STUDENT · FRONT-END DEVELOPER
 
-Atualmente, venho aprofundando meus conhecimentos em **JavaScript, React, TypeScript e desenvolvimento de aplicações web**, buscando transformar conhecimentos acadêmicos em projetos práticos.
+**Building ideas into software.**
 
-Tenho experiência desenvolvendo projetos pessoais e aplicações voltadas para problemas reais, trabalhando com componentização, consumo de APIs, responsividade, Git e deploy.
+<br>
 
----
+<a href="https://gustavol.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/Gustavo-leaodev/">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/G-Leao">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-## Sobre mim
-
-* 🎓 Estudante de Engenharia de Software
-* 💻 Foco em desenvolvimento Front-end
-* 🌐 Interesse em desenvolvimento Web e Software Engineering
-* 🚀 Atualmente aprofundando conhecimentos em React e TypeScript
-* 📚 Estudando estruturas de dados, banco de dados, engenharia de software e desenvolvimento de aplicações
-* 🎯 Buscando uma oportunidade de estágio na área de tecnologia
-
----
-
-## Tecnologias
-
-### Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+</div>
 
 ---
 
-## Projetos em destaque
+<div align="center">
 
-### Watch Hub
+> **I don't want to just learn how software works.
+> I want to build it.**
 
-Aplicação web desenvolvida com React para gerenciamento e exploração de produtos, com múltiplas páginas, filtros, favoritos, comparação, dashboard e persistência de dados.
-
-**Tecnologias:** React, JavaScript, Vite, React Router, Fetch API e LocalStorage.
-
-[Ver projeto](https://watch-hub-nine.vercel.app/) · [Código](https://github.com/G-Leao/watch-hub)
+</div>
 
 ---
 
-### Sistema de Gestão de Vendas
+## `01` — WHO I AM
 
-Sistema web desenvolvido para gerenciamento e acompanhamento de vendas, com dashboard, métricas e visualização de dados.
+I'm **Gustavo Leão**, a Software Engineering student focused on building modern web applications.
 
-**Tecnologias:** HTML, CSS, JavaScript, Chart.js e LocalStorage.
+My journey started with the fundamentals of the web and evolved into building complete interfaces, dashboards, management systems and interactive applications.
 
-[Ver projeto](https://sistema-de-gestao-de-vendas-black.vercel.app/) · [Código](https://github.com/G-Leao/Sistema-PRO)
+Today, my main focus is **Front-end Development**, while expanding my knowledge toward full-stack development.
 
----
+I'm particularly interested in:
 
-### AR Esportes
+* Modern web applications
+* React & TypeScript
+* Software architecture
+* APIs and integrations
+* Databases
+* UI/UX
+* Real-world problem solving
 
-Landing page desenvolvida para uma academia de judô, com foco em apresentação institucional, responsividade, experiência visual e integração com localização.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-[Ver projeto](https://ar-esportes.vercel.app/) · [Código](https://github.com/G-Leao/AR-esportes-Landing-Page)
-
----
-
-## Formação
-
-**Engenharia de Software**
-
-UniCesumar
+<br>
 
 ---
 
-## Atualmente estudando
+## `02` — WHAT I'M BUILDING
 
-* TypeScript
-* React
-* APIs REST
-* Banco de Dados
-* Node.js
-* Testes automatizados
-* Arquitetura e boas práticas de desenvolvimento
-* Estruturas de Dados e Algoritmos
-
----
-
-## Objetivo profissional
-
-Busco uma oportunidade de **estágio em Desenvolvimento de Software / Engenharia de Software**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de produtos e soluções reais.
-
----
-
-## Onde me encontrar
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://gustavol.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/Gustavo-leaodev/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/G-Leao)
-
----
+### WATCH HUB
 
 <p align="center">
-  Desenvolvendo, aprendendo e evoluindo constantemente.
+  <img src="https://raw.githubusercontent.com/G-Leao/watch-hub/main/public/preview.png" width="90%">
 </p>
+
+A React-based web application designed to explore, filter, compare and manage products through an interactive interface.
+
+**Built with**
+
+`React` `JavaScript` `Vite` `React Router` `Fetch API` `LocalStorage`
+
+**Features**
+
+* Product catalog
+* Search and filters
+* Pagination
+* Favorites
+* Product comparison
+* Dashboard
+* Form validation
+* Responsive interface
+
+<div align="center">
+
+**[ LIVE DEMO ](https://watch-hub-nine.vercel.app/)**
+
+</div>
+
+---
+
+## `03` — SELECTED WORK
+
+### 01 / WATCH HUB
+
+**Interactive product platform**
+
+React application focused on componentization, navigation, state management and interactive user experiences.
+
+`React` · `JavaScript` · `Vite`
+
+→ [View project](https://watch-hub-nine.vercel.app/)
+
+---
+
+### 02 / SISTEMA DE GESTÃO DE VENDAS
+
+**Business management dashboard**
+
+A web-based sales management system designed to visualize metrics, track sales and provide a simple business overview.
+
+`HTML` · `CSS` · `JavaScript` · `Chart.js`
+
+→ [View project](https://sistema-de-gestao-de-vendas-black.vercel.app/)
+
+---
+
+### 03 / AR ESPORTES
+
+**Real-world landing page**
+
+Institutional landing page created for a martial arts academy, focusing on responsive design, visual experience and real-world usability.
+
+`HTML` · `CSS` · `JavaScript`
+
+---
+
+### 04 / CATÁLOGO SEIKO
+
+**Product catalog**
+
+A digital catalog experience focused on presenting watches and products through a responsive web interface.
+
+`HTML` · `CSS` · `JavaScript`
+
+---
+
+## `04` — TECHNOLOGY
+
+### FRONT-END
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+
+</p>
+
+### CURRENTLY EXPANDING
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,supabase,postgres,git,github" />
+
+</p>
+
+My current learning path is focused on moving from front-end applications toward **full-stack software development**.
+
+---
+
+## `05` — THE JOURNEY
+
+```text
+                    SOFTWARE ENGINEERING
+                            │
+                            ▼
+                     WEB DEVELOPMENT
+                            │
+                            ▼
+                    HTML · CSS · JS
+                            │
+                            ▼
+                         REACT
+                            │
+                            ▼
+                      TYPESCRIPT
+                            │
+                            ▼
+                    APIs · DATABASES
+                            │
+                            ▼
+                    FULL-STACK DEVELOPMENT
+```
+
+The goal isn't simply to learn more technologies.
+
+The goal is to understand **how software is designed, built, deployed and maintained.**
+
+---
+
+## `06` — CURRENTLY LEARNING
+
+```text
+TypeScript
+    ↓
+React Architecture
+    ↓
+REST APIs
+    ↓
+Node.js
+    ↓
+Databases & SQL
+    ↓
+Authentication
+    ↓
+Testing
+    ↓
+Software Architecture
+```
+
+I'm continuously turning these concepts into practical projects instead of learning them only through theory.
+
+---
+
+## `07` — ENGINEERING MINDSET
+
+I believe good software is more than a working interface.
+
+It should be:
+
+**Readable.**
+
+**Maintainable.**
+
+**Accessible.**
+
+**Responsive.**
+
+**Scalable.**
+
+And most importantly:
+
+**Useful.**
+
+Every project I build is an opportunity to improve one of those things.
+
+---
+
+## `08` — BEYOND THE CODE
+
+Software engineering is a continuous process of:
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+REPEAT
+```
+
+I'm currently somewhere in the middle of that loop.
+
+And that's exactly where I want to be.
+
+---
+
+## `09` — EDUCATION
+
+### Engenharia de Software
+
+**UniCesumar**
+
+Currently studying Software Engineering with academic experience in:
+
+`Java` · `C` · `C++` · `Data Structures` · `Databases` · `Software Engineering` · `Requirements Engineering`
+
+---
+
+## `10` — CAREER
+
+I'm currently looking for an opportunity to start my professional journey in technology.
+
+### Interested in
+
+**Software Engineering**
+
+**Front-end Development**
+
+**React Development**
+
+**Web Development**
+
+**Software Development Internship**
+
+I'm looking for an environment where I can contribute, learn from experienced developers and grow through real-world engineering problems.
+
+---
+
+## `11` — LET'S CONNECT
+
+<div align="center">
+
+<a href="https://gustavol.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/Gustavo-leaodev/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:SEU_EMAIL_AQUI">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### GUSTAVO LEÃO
+
+**Software Engineering Student · Front-end Developer**
+
+*Building what's next.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=G-Leao&style=flat-square&color=111111&label=PROFILE+VIEWS">
+
+</div>
