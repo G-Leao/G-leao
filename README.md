@@ -57,10 +57,6 @@ I'm particularly interested in:
 
 ### WATCH HUB
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/G-Leao/watch-hub/main/public/preview.png" width="90%">
-</p>
-
 A React-based web application designed to explore, filter, compare and manage products through an interactive interface.
 
 **Built with**
