@@ -2,7 +2,7 @@
 
 # GUSTAVO LEÃO
 
-### SOFTWARE ENGINEERING STUDENT · FRONT-END & FULL-STACK DEVELOPER
+### SOFTWARE ENGINEERING STUDENT · FRONT-END DEVELOPER
 
 **Building ideas into software.**
 
@@ -35,9 +35,9 @@
 
 I'm **Gustavo Leão**, a Software Engineering student focused on building modern web applications.
 
-My journey started with the fundamentals of the web and evolved into building complete interfaces, dashboards, management systems and, more recently, full-stack applications with REST APIs and relational databases.
+My journey started with the fundamentals of the web and evolved into building complete interfaces, dashboards and management systems.
 
-My main focus is **Front-end Development**, and I'm actively expanding toward **full-stack software engineering**.
+My main focus is **Front-end Development**. I'm now learning **back-end development** by building real projects with REST APIs and relational databases, with the goal of becoming a full-stack engineer.
 
 I'm particularly interested in:
 
@@ -57,7 +57,7 @@ I'm particularly interested in:
 
 ### PUBLI-BUS
 
-A full-stack web platform to manage and promote advertising on public transport, connecting advertisers to ad spaces on buses and centralizing campaigns, media, metrics and reports.
+A full-stack web platform, built as my hands-on back-end learning project, to manage and promote advertising on public transport, connecting advertisers to ad spaces on buses and centralizing campaigns, media, metrics and reports.
 
 **Built with**
 
@@ -190,7 +190,7 @@ A digital catalog experience focused on presenting watches and products through 
 
 </p>
 
-### BACK-END & DATA
+### BACK-END & DATA (LEARNING BY BUILDING)
 
 <p align="left">
 
@@ -255,9 +255,9 @@ TypeScript
     ↓
 React Architecture
     ↓
-Advanced Node.js & REST APIs
+Node.js & REST APIs
     ↓
-Databases & SQL Modeling
+Databases & SQL
     ↓
 Authentication & Authorization
     ↓
@@ -380,7 +380,7 @@ I'm looking for an environment where I can contribute, learn from experienced de
 
 ### GUSTAVO LEÃO
 
-**Software Engineering Student · Front-end & Full-stack Developer**
+**Software Engineering Student · Front-end Developer**
 
 *Building what's next.*
 
