@@ -2,7 +2,7 @@
 
 # GUSTAVO LEÃO
 
-### SOFTWARE ENGINEERING STUDENT · FRONT-END DEVELOPER
+### SOFTWARE ENGINEERING STUDENT · FRONT-END DEVELOPER · EXPANDING INTO BACK-END
 
 **Building ideas into software.**
 
@@ -33,60 +33,39 @@
 
 ## `01` — WHO I AM
 
-I'm **Gustavo Leão**, a Software Engineering student focused on building modern web applications.
+I'm **Gustavo Leão**, a Software Engineering student at UniCesumar with a practical foundation in **front-end development**, especially React. I'm now expanding into **back-end** by building real projects with APIs, databases and authentication, with the goal of becoming a full-stack engineer.
 
-My journey started with the fundamentals of the web and evolved into building complete interfaces, dashboards and management systems.
-
-My main focus is **Front-end Development**. I'm now learning **back-end development** by building real projects with REST APIs and relational databases, with the goal of becoming a full-stack engineer.
-
-I'm particularly interested in:
-
-* Modern web applications
-* React & TypeScript
-* Software architecture
-* APIs and integrations
-* Databases
-* UI/UX
-* Real-world problem solving
-
-<br>
+| At a glance | |
+|---|---|
+| **Foundation** | React · JavaScript · HTML · CSS · Tailwind CSS |
+| **Expanding into** | Node.js · Express · Prisma · PostgreSQL |
+| **Featured project** | PUBLI-BUS, my first full-stack application (in development) |
+| **Looking for** | Software development internship |
 
 ---
 
-## `02` — WHAT I'M BUILDING
+## `02` — FEATURED PROJECT
 
 ### PUBLI-BUS
 
-A full-stack web platform, built as my hands-on back-end learning project, to manage and promote advertising on public transport, connecting advertisers to ad spaces on buses and centralizing campaigns, media, metrics and reports.
+**My first full-stack application, and where my back-end learning is happening.**
 
-**Built with**
+A web platform to manage advertising on public transport, connecting advertisers to ad spaces on buses and centralizing campaigns, media, metrics and reports.
 
 `React` `Vite` `Tailwind CSS` `Node.js` `Express` `Prisma` `PostgreSQL` `JWT` `Zod`
 
-**Features**
-
-* Authentication with JWT and role-based access (Admin / Operator / Advertiser)
-* Advertiser and company management
-* Bus and ad space management
-* Campaign creation and status control
-* Advertising metrics and reports
-* Media upload with validation
-* Administrative dashboard with real database data
-* REST API with smoke-test suite
-
-**Architecture**
+* JWT authentication with role-based access (Admin / Operator / Advertiser)
+* Management of advertisers, companies, buses and ad spaces
+* Campaign creation with status control
+* Media upload with type and size validation
+* Metrics, reports and an administrative dashboard backed by real database data
+* REST API with a smoke-test suite
 
 ```text
-Frontend (React)
-      ↓
-   REST API
-      ↓
-    Express
-      ↓
-     Prisma
-      ↓
-  PostgreSQL
+React  →  REST API  →  Express  →  Prisma  →  PostgreSQL
 ```
+
+**Status:** in development. Backend implemented and tested locally; deployment is the next step.
 
 <div align="center">
 
@@ -98,23 +77,11 @@ Frontend (React)
 
 ## `03` — SELECTED WORK
 
-### 01 / PUBLI-BUS
+### GITHUB DEV DASHBOARD
 
-**Full-stack advertising management platform**
+**GitHub profile and repository analytics**
 
-Web platform to manage advertising on public transport: advertisers, buses, ad spaces, campaigns, media uploads, metrics and reports. Role-based access, REST API and a tested backend.
-
-`React` · `Vite` · `Tailwind` · `Node.js` · `Express` · `Prisma` · `PostgreSQL` · `JWT` · `Zod`
-
-→ [View repository](https://github.com/G-Leao/PUBLI-BUS)
-
----
-
-### 02 / GITHUB DEV DASHBOARD
-
-**Developer analytics + AI reviewer**
-
-React application that consumes the GitHub REST API to explore profiles and repositories, with an AI Reviewer (Gemini, called through a server-side function) that analyzes the loaded data within a controlled context.
+React application that consumes the GitHub REST API to explore profiles and repositories. It includes an AI Reviewer in progress, built with Gemini through a server-side function so the API key never reaches the browser.
 
 `React` · `JavaScript` · `Vite` · `GitHub API` · `Gemini API` · `Vercel Functions`
 
@@ -122,11 +89,11 @@ React application that consumes the GitHub REST API to explore profiles and repo
 
 ---
 
-### 03 / WATCH HUB
+### WATCH HUB
 
 **Interactive product platform**
 
-React application focused on componentization, navigation, state management and interactive user experiences: catalog, filters, favorites, comparison and dashboard.
+React application focused on componentization, routing and state management: product catalog, search and filters, pagination, favorites, comparison, dashboard and form validation.
 
 `React` · `JavaScript` · `Vite`
 
@@ -134,11 +101,11 @@ React application focused on componentization, navigation, state management and 
 
 ---
 
-### 04 / SISTEMA DE GESTÃO DE VENDAS
+### SISTEMA DE GESTÃO DE VENDAS
 
 **Business management dashboard**
 
-A web-based sales management system designed to visualize metrics, track sales and provide a simple business overview.
+Web-based sales management system to track sales and visualize business metrics.
 
 `HTML` · `CSS` · `JavaScript` · `Chart.js`
 
@@ -146,217 +113,83 @@ A web-based sales management system designed to visualize metrics, track sales a
 
 ---
 
-### 05 / BILOBRAN & PALACI ADVOGADOS
+### MORE WORK
 
-**Institutional website for a law firm**
-
-Responsive institutional website with a navy and gold visual identity, practice areas, contact form, WhatsApp integration and embedded map.
-
-`HTML` · `CSS` · `JavaScript`
-
----
-
-### 06 / AR ESPORTES
-
-**Real-world landing page**
-
-Landing page created for a judo academy, focusing on responsive design, smooth animations and real-world usability.
-
-`HTML` · `CSS` · `JavaScript`
-
-→ [View repository](https://github.com/G-Leao/AR-esportes-Landing-Page)
-
----
-
-### 07 / CATÁLOGO SEIKO
-
-**Product catalog**
-
-A digital catalog experience focused on presenting watches and products through a responsive web interface.
-
-`HTML` · `CSS` · `JavaScript`
-
-→ [View repository](https://github.com/G-Leao/Catalogo_seiko_joalheria)
+| Project | What it is | Stack |
+|---|---|---|
+| **Bilobran & Palaci Advogados** | Institutional website for a law firm | HTML · CSS · JavaScript |
+| **AR Esportes** | Landing page for a judo academy ([repository](https://github.com/G-Leao/AR-esportes-Landing-Page)) | HTML · CSS · JavaScript |
+| **Catálogo Seiko** | Responsive digital product catalog ([repository](https://github.com/G-Leao/Catalogo_seiko_joalheria)) | HTML · CSS · JavaScript |
 
 ---
 
 ## `04` — TECHNOLOGY
 
-### FRONT-END
-
-<p align="left">
+**FRONT-END** · my foundation
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 
-</p>
+**BACK-END & DATA** · being developed through hands-on projects
 
-### BACK-END & DATA (LEARNING BY BUILDING)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" />
-
-</p>
-
-### TOOLS
-
-<p align="left">
+**TOOLS**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 
-</p>
+**CURRENTLY EXPANDING** · especially TypeScript
 
-### CURRENTLY EXPANDING
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=ts" />
-
-</p>
-
-My current learning path is focused on moving from front-end applications toward **full-stack software development**.
+<img src="https://skillicons.dev/icons?i=ts,supabase" />
 
 ---
 
 ## `05` — THE JOURNEY
 
 ```text
-                    SOFTWARE ENGINEERING
-                            │
-                            ▼
-                     WEB DEVELOPMENT
-                            │
-                            ▼
-                    HTML · CSS · JS
-                            │
-                            ▼
-                         REACT
-                            │
-                            ▼
-                APIs · DATABASES · AUTH
-                            │
-                            ▼
-                      TYPESCRIPT
-                            │
-                            ▼
-                    FULL-STACK DEVELOPMENT
+FRONT-END          React · JavaScript · real projects       [ foundation ]
+    ↓
+APIs               GitHub REST API · own REST API           [ practicing ]
+    ↓
+DATABASES & AUTH   PostgreSQL · Prisma · JWT                [ practicing ]
+    ↓
+BACK-END           Node.js · Express                        [ learning ]
+    ↓
+FULL-STACK                                                  [ goal ]
 ```
 
-The goal isn't simply to learn more technologies.
+Next up: TypeScript, testing, deployment and software architecture.
 
-The goal is to understand **how software is designed, built, deployed and maintained.**
+The goal isn't simply to learn more technologies. The goal is to understand **how software is designed, built, deployed and maintained.**
 
 ---
 
-## `06` — CURRENTLY LEARNING
+## `06` — ENGINEERING MINDSET
+
+Good software is more than a working interface. It should be **readable, maintainable, accessible, responsive, scalable** and, most importantly, **useful.**
 
 ```text
-TypeScript
-    ↓
-React Architecture
-    ↓
-Node.js & REST APIs
-    ↓
-Databases & SQL
-    ↓
-Authentication & Authorization
-    ↓
-Testing
-    ↓
-Deployment
-    ↓
-Software Architecture
+LEARN → BUILD → BREAK → DEBUG → UNDERSTAND → IMPROVE → REPEAT
 ```
 
-I'm continuously turning these concepts into practical projects instead of learning them only through theory.
+I'm somewhere in the middle of that loop, and that's exactly where I want to be.
 
 ---
 
-## `07` — ENGINEERING MINDSET
+## `07` — EDUCATION
 
-I believe good software is more than a working interface.
-
-It should be:
-
-**Readable.**
-
-**Maintainable.**
-
-**Accessible.**
-
-**Responsive.**
-
-**Scalable.**
-
-And most importantly:
-
-**Useful.**
-
-Every project I build is an opportunity to improve one of those things.
-
----
-
-## `08` — BEYOND THE CODE
-
-Software engineering is a continuous process of:
-
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-UNDERSTAND
-  ↓
-IMPROVE
-  ↓
-REPEAT
-```
-
-I'm currently somewhere in the middle of that loop.
-
-And that's exactly where I want to be.
-
----
-
-## `09` — EDUCATION
-
-### Engenharia de Software
-
-**UniCesumar**
-
-Currently studying Software Engineering with academic experience in:
+### Engenharia de Software · UniCesumar
 
 `Java` · `C` · `C++` · `Data Structures` · `Databases` · `Software Engineering` · `Requirements Engineering`
 
 ---
 
-## `10` — CAREER
+## `08` — CAREER
 
-I'm currently looking for an opportunity to start my professional journey in technology.
-
-### Interested in
-
-**Software Engineering**
-
-**Front-end Development**
-
-**Full-stack Development**
-
-**React Development**
-
-**Web Development**
-
-**Software Development Internship**
-
-I'm looking for an environment where I can contribute, learn from experienced developers and grow through real-world engineering problems.
+I'm looking for an opportunity to start my professional journey in technology: a software development internship focused on **front-end and web development**, in an environment where I can contribute, learn from experienced developers and grow into back-end through real-world engineering problems.
 
 ---
 
-## `11` — LET'S CONNECT
+## `09` — LET'S CONNECT
 
 <div align="center">
 
@@ -380,7 +213,7 @@ I'm looking for an environment where I can contribute, learn from experienced de
 
 ### GUSTAVO LEÃO
 
-**Software Engineering Student · Front-end Developer**
+**Software Engineering Student · Front-end Developer · Expanding into Back-end**
 
 *Building what's next.*
 
