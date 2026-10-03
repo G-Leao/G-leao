@@ -2,7 +2,7 @@
 
 # GUSTAVO LEÃO
 
-### SOFTWARE ENGINEERING STUDENT · FRONT-END DEVELOPER
+### SOFTWARE ENGINEERING STUDENT · FRONT-END & FULL-STACK DEVELOPER
 
 **Building ideas into software.**
 
@@ -35,9 +35,9 @@
 
 I'm **Gustavo Leão**, a Software Engineering student focused on building modern web applications.
 
-My journey started with the fundamentals of the web and evolved into building complete interfaces, dashboards, management systems and interactive applications.
+My journey started with the fundamentals of the web and evolved into building complete interfaces, dashboards, management systems and, more recently, full-stack applications with REST APIs and relational databases.
 
-Today, my main focus is **Front-end Development**, while expanding my knowledge toward full-stack development.
+My main focus is **Front-end Development**, and I'm actively expanding toward **full-stack software engineering**.
 
 I'm particularly interested in:
 
@@ -55,28 +55,42 @@ I'm particularly interested in:
 
 ## `02` — WHAT I'M BUILDING
 
-### WATCH HUB
+### PUBLI-BUS
 
-A React-based web application designed to explore, filter, compare and manage products through an interactive interface.
+A full-stack web platform to manage and promote advertising on public transport, connecting advertisers to ad spaces on buses and centralizing campaigns, media, metrics and reports.
 
 **Built with**
 
-`React` `JavaScript` `Vite` `React Router` `Fetch API` `LocalStorage`
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `Prisma` `PostgreSQL` `JWT` `Zod`
 
 **Features**
 
-* Product catalog
-* Search and filters
-* Pagination
-* Favorites
-* Product comparison
-* Dashboard
-* Form validation
-* Responsive interface
+* Authentication with JWT and role-based access (Admin / Operator / Advertiser)
+* Advertiser and company management
+* Bus and ad space management
+* Campaign creation and status control
+* Advertising metrics and reports
+* Media upload with validation
+* Administrative dashboard with real database data
+* REST API with smoke-test suite
+
+**Architecture**
+
+```text
+Frontend (React)
+      ↓
+   REST API
+      ↓
+    Express
+      ↓
+     Prisma
+      ↓
+  PostgreSQL
+```
 
 <div align="center">
 
-**[ LIVE DEMO ](https://watch-hub-nine.vercel.app/)**
+**[ VIEW REPOSITORY ](https://github.com/G-Leao/PUBLI-BUS)**
 
 </div>
 
@@ -84,19 +98,43 @@ A React-based web application designed to explore, filter, compare and manage pr
 
 ## `03` — SELECTED WORK
 
-### 01 / WATCH HUB
+### 01 / PUBLI-BUS
 
-**Interactive product platform**
+**Full-stack advertising management platform**
 
-React application focused on componentization, navigation, state management and interactive user experiences.
+Web platform to manage advertising on public transport: advertisers, buses, ad spaces, campaigns, media uploads, metrics and reports. Role-based access, REST API and a tested backend.
 
-`React` · `JavaScript` · `Vite`
+`React` · `Vite` · `Tailwind` · `Node.js` · `Express` · `Prisma` · `PostgreSQL` · `JWT` · `Zod`
 
-→ [View project](https://watch-hub-nine.vercel.app/)
+→ [View repository](https://github.com/G-Leao/PUBLI-BUS)
 
 ---
 
-### 02 / SISTEMA DE GESTÃO DE VENDAS
+### 02 / GITHUB DEV DASHBOARD
+
+**Developer analytics + AI reviewer**
+
+React application that consumes the GitHub REST API to explore profiles and repositories, with an AI Reviewer (Gemini, called through a server-side function) that analyzes the loaded data within a controlled context.
+
+`React` · `JavaScript` · `Vite` · `GitHub API` · `Gemini API` · `Vercel Functions`
+
+→ [View repository](https://github.com/G-Leao/Github-Dev-dashboard)
+
+---
+
+### 03 / WATCH HUB
+
+**Interactive product platform**
+
+React application focused on componentization, navigation, state management and interactive user experiences: catalog, filters, favorites, comparison and dashboard.
+
+`React` · `JavaScript` · `Vite`
+
+→ [Live demo](https://watch-hub-nine.vercel.app/) · [Repository](https://github.com/G-Leao/watch-hub)
+
+---
+
+### 04 / SISTEMA DE GESTÃO DE VENDAS
 
 **Business management dashboard**
 
@@ -104,27 +142,41 @@ A web-based sales management system designed to visualize metrics, track sales a
 
 `HTML` · `CSS` · `JavaScript` · `Chart.js`
 
-→ [View project](https://sistema-de-gestao-de-vendas-black.vercel.app/)
+→ [Live demo](https://sistema-de-gestao-de-vendas-black.vercel.app/) · [Repository](https://github.com/G-Leao/Sistema-de-gestao-de-vendas)
 
 ---
 
-### 03 / AR ESPORTES
+### 05 / BILOBRAN & PALACI ADVOGADOS
 
-**Real-world landing page**
+**Institutional website for a law firm**
 
-Institutional landing page created for a martial arts academy, focusing on responsive design, visual experience and real-world usability.
+Responsive institutional website with a navy and gold visual identity, practice areas, contact form, WhatsApp integration and embedded map.
 
 `HTML` · `CSS` · `JavaScript`
 
 ---
 
-### 04 / CATÁLOGO SEIKO
+### 06 / AR ESPORTES
+
+**Real-world landing page**
+
+Landing page created for a judo academy, focusing on responsive design, smooth animations and real-world usability.
+
+`HTML` · `CSS` · `JavaScript`
+
+→ [View repository](https://github.com/G-Leao/AR-esportes-Landing-Page)
+
+---
+
+### 07 / CATÁLOGO SEIKO
 
 **Product catalog**
 
 A digital catalog experience focused on presenting watches and products through a responsive web interface.
 
 `HTML` · `CSS` · `JavaScript`
+
+→ [View repository](https://github.com/G-Leao/Catalogo_seiko_joalheria)
 
 ---
 
@@ -138,11 +190,27 @@ A digital catalog experience focused on presenting watches and products through 
 
 </p>
 
+### BACK-END & DATA
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" />
+
+</p>
+
+### TOOLS
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
+
+</p>
+
 ### CURRENTLY EXPANDING
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,supabase,postgres,git,github" />
+<img src="https://skillicons.dev/icons?i=ts" />
 
 </p>
 
@@ -165,10 +233,10 @@ My current learning path is focused on moving from front-end applications toward
                          REACT
                             │
                             ▼
-                      TYPESCRIPT
+                APIs · DATABASES · AUTH
                             │
                             ▼
-                    APIs · DATABASES
+                      TYPESCRIPT
                             │
                             ▼
                     FULL-STACK DEVELOPMENT
@@ -187,15 +255,15 @@ TypeScript
     ↓
 React Architecture
     ↓
-REST APIs
+Advanced Node.js & REST APIs
     ↓
-Node.js
+Databases & SQL Modeling
     ↓
-Databases & SQL
-    ↓
-Authentication
+Authentication & Authorization
     ↓
 Testing
+    ↓
+Deployment
     ↓
 Software Architecture
 ```
@@ -276,6 +344,8 @@ I'm currently looking for an opportunity to start my professional journey in tec
 
 **Front-end Development**
 
+**Full-stack Development**
+
 **React Development**
 
 **Web Development**
@@ -310,7 +380,7 @@ I'm looking for an environment where I can contribute, learn from experienced de
 
 ### GUSTAVO LEÃO
 
-**Software Engineering Student · Front-end Developer**
+**Software Engineering Student · Front-end & Full-stack Developer**
 
 *Building what's next.*
 
